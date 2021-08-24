@@ -1,0 +1,26 @@
+
+class Tuesday, Thursday and Saturday
+27-12-2020
+upto this month (January) 15 lectures are completed
+
+Lecture No: 1
+Signals and Systems, Continuous and Discrete Time Signal, Uniformly and Non Uniformly Sampled,Addition of Continuous Time Signal
+Time Scaling and Amplitude Scaling.
+
+
+Lecture No2
+Shifitng of Continuous Time Signal, Time Shifting, Amplitude Shifting, Reversal of Continuous Time Signal,
+Even and Odd Signal, Energy and Power Signal.
+
+
+Lecture No 3
+Problems on Energy and Power Signal
+
+Lecture No 4
+Causla and Non Causal System, Periodic and Aperiodic Signal
+
+Lecture No 5   Laplace Transform
+
+Lecture No 6  Trignometric Form of L.T, Static and Dynamic Systems
+
+Lecture No 7 Convolution, Laplace Inverse Transform
